@@ -1,0 +1,1 @@
+Este es la típica calculadora que a todo aprendiz de programación nos ha tocado hacer alguna vez en nuestra carrera. A pesar de que siempre hacemos este ejercicio que se ejecuta en consola realizando operaciones aritméticas (suma, resta, división, multiplicación), decidí hacerlo un poco más grafica con javascript, html y css
